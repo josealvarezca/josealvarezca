@@ -1,7 +1,7 @@
 # Hello, I'm José
 <a href="https://linkedin.com/in/josealvarezca"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity apprentice from Venezuela with four years of experience as a manual QA tester. I have a profound interest in technology and a strong dedication to solving complex problems.
+I am a cybersecurity apprentice from Venezuela with five years of experience as a manual QA tester. I have a profound interest in technology and a strong dedication to solving complex problems.
 
 ## Objective
 
