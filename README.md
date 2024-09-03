@@ -5,7 +5,7 @@ I am a cybersecurity apprentice from Venezuela with five years of experience as 
 
 ## Objective
 
-I am excited to transition into cybersecurity after discovering a passion for it during my years in IT. My goal is to work as a Tier 1 Analyst in a Security Operations Center (SOC).
+I am excited to transition into cybersecurity after discovering a passion for it during my years in IT. My goal is to work as a Tier 1 Analyst in a Security Operations Center (SOC) or as a Pentester.
 
 ## Certifications & Courses
 <div>
