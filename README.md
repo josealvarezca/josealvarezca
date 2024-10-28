@@ -9,10 +9,9 @@ I am excited to transition into cybersecurity after discovering a passion for it
 
 ## Certifications & Courses
 <div>
-<a href="https://www.credly.com/badges/304ceb05-0992-4c44-9dc9-2cd85bae9def"><img src="https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/12df589f-b783-4d74-a2f9-94b297358e3f"><img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/36f3bcb0-0c9a-4af2-a072-1eb34fedcb11"><img src="https://img.shields.io/badge/Cisco-Networking%20Devices%20and%20Initial%20Configuration-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
-<a href="https://www.credly.com/earner/earned/badge/56efc9b1-ccd6-409a-88f8-bde21c8d4713"><img src="https://img.shields.io/badge/Cisco-Endpoint%20Security-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/569aebf5-ddf2-46fe-810d-503d7c4a36d3/linked_in_profile">
+  <img src="https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst%20Career%20Path-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
+</a>
 </div>
 
 ## Projects
