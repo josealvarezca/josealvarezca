@@ -5,13 +5,24 @@ I am a cybersecurity apprentice from Venezuela with five years of experience as 
 
 ## Objective
 
-I am excited to transition into cybersecurity after discovering a passion for it during my years in IT. My goal is to work as a Tier 1 Analyst in a Security Operations Center (SOC) or as a Pentester.
+I am eager to start my career in cybersecurity, as I've developed a strong interest in this field through my recent studies and self-learning. I’m excited to gain hands-on experience in a professional environment, contributing to a team and developing the skills needed for future growth in cybersecurity.
 
-## Certifications & Courses
+## Tools
+
+### Network
 <div>
-<a href="https://www.credly.com/badges/569aebf5-ddf2-46fe-810d-503d7c4a36d3/linked_in_profile">
-  <img src="https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst%20Career%20Path-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> (in progress)
+</div>
+
+## Courses
+<div>
+<img src="https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst%20Career%20Path-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> (in progress)
 </div>
 
 ## Projects
