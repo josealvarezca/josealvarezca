@@ -22,7 +22,7 @@ I am eager to start my career in cybersecurity, as I've developed a strong inter
 ## Courses
 <div>
 <img src="https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst%20Career%20Path-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=4285F4&labelColor=FFFFFF" /> (in progress)
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=4285F4&labelColor=FFFFFF" />
 </div>
 
 ## Projects
